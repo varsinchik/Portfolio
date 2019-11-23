@@ -1,0 +1,231 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	width: 1366px;
+	background-color: #dedede1a;
+	margin: 0 auto;
+
+}
+
+.header{
+	background-color: white;
+
+	width: 1140px;
+	height: 803px;
+	margin: 0 113px;
+}
+
+
+
+.wrapper{
+
+
+}
+
+.w_img{
+	margin-left: 10px;
+	margin-top: 77px;
+	display: inline-block;
+	width:38%;
+}
+
+.header_text{
+	vertical-align: top;
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px; 
+	text-align: left;
+	width:60%;
+	display: inline-block;
+}
+
+h1{
+	margin-top: 137px;
+	font-size: 48px;
+	margin-bottom: 15px;
+}
+
+h3{
+	margin-left: 3px;
+	margin-top: 15px;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.text{
+	width: 526px;
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 27px;
+	margin-bottom: 47px;
+}
+
+.prise{
+	font-size: 48px;
+}
+
+.buy{
+	margin-right: 40px;
+	margin-top: 53px;
+	font-weight: 700;
+	font-size: 24px;
+	color: #ffffff;
+	width: 175px;
+	height: 67px;
+	border-radius: 5px;
+	background-color: #f05a22;
+}
+
+.detail{
+	width: 287px;
+	height: 67px;
+	border-radius: 5px;
+	color: #f05a22;
+	font-size: 24px;
+	font-weight: 700;
+	background-color: transparent;
+	border: 2px inset #f05a22;
+}
+
+.Shipping_payment{
+	width: 1366px;
+	height: 408px;
+ 
+}
+
+.wrapperSP{
+	background-color: #f2f2f2;
+	width: 1366px;
+	height: 408px;
+	margin: 0 auto;
+	text-align: center;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 30px;
+	font-weight: 700;
+
+
+}
+.span{
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	padding-top: 89px;
+}
+.ship{
+	display: inline-block;
+}
+
+.pay{
+	display: inline-block;
+}
+
+.ship2{
+	display: inline-block;
+}
+
+.mailR{
+	display: inline-block;
+}
+
+.a{ 
+	color: #333333;
+	font-family: "Open Sans";
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 22px;
+
+}
+
+.block1{		
+	height: 106px;
+	margin: 91px 0 0;
+}
+
+.ship{ 
+	padding-left: 30px;
+	text-align: center;
+	margin-left: 0px;
+	width: 181px;
+	height: 102px;
+	margin-right: 87px;
+}
+
+.pay{
+	text-align: center; 
+	width: 241px;
+	height: 102px;
+	margin-right: 72px;
+}
+
+.ship2{
+	text-align: center;
+	width: 194px;
+	height: 102px;
+	margin-right: 95px;
+}
+
+.mailR{
+	text-align: center;
+	width: 194px;
+	height: 104px;
+}
+
+.gallerybuy{
+	width: 1367px;
+	height: 859px;
+	 
+
+}
+.span2{
+	padding-top: 89px;
+	text-align: center;
+	margin-bottom: 69px;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 27px;	
+}
+
+.gallery{
+padding-left: 112px;
+}
+
+.g{
+
+float: left;
+margin-right: 30px;
+
+}
+
+.c1{
+	display: table;
+	content: "";
+	clear: both;
+	padding-left: :113px; 
+	
+	 
+}
+
+.clsearfix::after{
+	display: table;
+	content: "";
+	clear: both;
+}
+
+.c2{
+	
+	display: inline-block;
+	 
+}
+
+.q{
+	width: 260px;
+	height: 260px; 
+}
