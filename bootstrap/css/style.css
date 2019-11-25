@@ -1,0 +1,59 @@
+body {
+    background-color: #dad6d6;
+}
+
+.news_block {
+    padding: 15px 0;
+}
+
+.news_in {
+    width: 185px;
+    height: 200px;
+    background-color: rgba(46, 15, 15, 0.26);
+    margin: auto;
+}
+
+h2{
+    font-family: inherit;
+    font-weight: 800;
+
+}
+
+.rows {
+    background-color: #f6f2f7;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23fпf' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fnf' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.card {
+    width: 225px;
+    height: 240px;
+}
+
+.card img {
+    height: 120px;
+}
+
+.footer {
+    background-color: #343a40;
+
+}
+
+.footer_row{
+    height: 90px;
+}
+
+.footer_row img{
+    width: 65px;
+}
+
+.view:hover {
+    transition: 0.6s ease;
+    transform: scale(1.3);
+}
